@@ -1,0 +1,47 @@
+.container{
+    background-color: lightgray;
+}
+.header{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+.main1{
+    background-color:  rgba(101, 240, 120, 0.781);
+    display: flex;
+    justify-content: space-evenly;
+}
+.brunchTitle{
+    text-align: center;
+}
+.lunchTitle{
+    text-align: center;
+}
+.dinnerTitle{
+    text-align: center;
+}
+.main2{
+    background-color: rgba(101, 240, 120, 0.781);
+    display: flex;
+    justify-content: space-evenly;
+}
+.appsTitle{
+    text-align: center;
+}
+.entreesTitle{
+    text-align: center;
+}
+.dessertTitle{
+    text-align: center;
+}
+.items{
+    text-align: left;
+}
+.beverages{
+    background-color: rgba(101, 240, 120, 0.781);
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
